@@ -12,7 +12,7 @@
           <h2 class="text-xl text-gray-200 font-normal">Full Stack Dev, Electronics</h2>
         </div>
       </div>
-      <div class="flex flex-row divide-x divide-gray-700 divide-dotted flex-1">
+      <div class="flex flex-row divide-x divide-gray-700 divide-dotted">
         <div class="w-2/12"></div>
         <div class="flex flex-col px-4 py-8 space-y-6"> 
           <div>
@@ -20,6 +20,10 @@
             <ul class="list-inside list-disc space-y-1 text-gray-400">
               <li>Arduino</li>
               <li>Javascript</li>
+              <li>Next.Js</li>
+              <li>React</li>
+              <li>Java</li>
+              <li>Preact</li>
             </ul>
           </div>
           <div>
@@ -32,10 +36,20 @@
           <div>
             <h3 class="text-xl text-white font-semibold pb-2">Experiences</h3>
             <ul class="list-inside space-y-1 text-gray-400">
-              <li>Speer Education <span class="text-purple-400">[LEAD WEB DEV]</span></li>
-              <li>Speer Education <span class="text-purple-400">[LEAD WEB DEV]</span></li>
+              <li>CLPHS CEC (2019 & 2020) <span class="text-purple-300">[PRESIDENT]</span></li>
+              <li>Speer Education <span class="text-purple-300">[LEAD WEB DEV]</span></li>
             </ul>
           </div>
+        </div>
+      </div>
+      <div class="flex flex-row divide-x divide-gray-700 divide-dotted flex-1">
+        <div class="w-2/12"></div>
+        <div class="flex flex-col px-4 py-8"> 
+          <h3 class="text-xl text-white font-semibold pb-2">Contact</h3>
+          <ul class="list-inside space-y-1 text-gray-400">
+            <li><span class="text-blue-300">[EMAIL]</span> chewtzihwee@gmail.com </li>
+            <li><span class="text-blue-300">[DISCORD]</span> Chew#9392 </li>
+          </ul>
         </div>
       </div>
     </div>
