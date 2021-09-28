@@ -27,17 +27,17 @@
             </ul>
           </div>
           <div>
-            <h3 class="text-xl text-white font-semibold pb-2">Socials</h3>
-            <ul class="list-inside space-y-1 text-gray-400">
-              <li><span class="text-green-400">[GITHUB]</span> <a href="https://github.com/ImJustChew">https://github.com/ImJustChew</a></li>
-              <li><span class="text-green-400">[LINKEDIN]</span> <a href="https://www.linkedin.com/in/imjustchew">https://www.linkedin.com/in/imjustchew/</a></li>
-            </ul>
-          </div>
-          <div>
             <h3 class="text-xl text-white font-semibold pb-2">Experiences</h3>
             <ul class="list-inside space-y-1 text-gray-400">
               <li>CLPHS CEC (2019 & 2020) <span class="text-purple-300">[PRESIDENT]</span></li>
               <li>Speer Education <span class="text-purple-300">[LEAD WEB DEV]</span></li>
+            </ul>
+          </div>
+          <div>
+            <h3 class="text-xl text-white font-semibold pb-2">Socials</h3>
+            <ul class="list-inside space-y-1 text-gray-400">
+              <li><span class="text-green-400">[GITHUB]</span> <a href="https://github.com/ImJustChew">https://github.com/ImJustChew</a></li>
+              <li><span class="text-green-400">[LINKEDIN]</span> <a href="https://www.linkedin.com/in/imjustchew">https://www.linkedin.com/in/imjustchew/</a></li>
             </ul>
           </div>
         </div>
